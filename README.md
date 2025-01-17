@@ -1,5 +1,18 @@
 # Investing-Portfolio-Tracker
 
+
+<img width="1205" alt="Screenshot 2025-01-16 at 11 14 30 PM" src="https://github.com/user-attachments/assets/ef4c458a-0f7d-4448-9a92-02619bcbfef4" />
+<img width="1450" alt="Screenshot 2025-01-16 at 11 14 38 PM" src="https://github.com/user-attachments/assets/df9fd36a-64ae-4a75-918c-658e197a68c6" />
+
+
+
+
+
+
+
+
+
+
 Overview
 The Investing Portfolio Tracker is a Python-based application designed to help users monitor and evaluate their stock portfolio performance. The tool fetches real-time stock price data using yfinance, calculates detailed metrics like profit/loss and percentage change, and generates a professional, visually appealing HTML report styled with CSS. It also creates a dynamic portfolio distribution chart using matplotlib for enhanced data visualization.
 
