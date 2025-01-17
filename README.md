@@ -22,11 +22,9 @@ Clone this repository to your local machine.
 Ensure the required dependencies (yfinance, matplotlib) are installed.
 pip install yfinance matplotlib
 Prepare a portfolio.csv file with your portfolio details in the following format:
+<img width="338" alt="Screenshot 2025-01-16 at 11 47 11 PM" src="https://github.com/user-attachments/assets/74246811-e3c2-4e5b-9696-33be3d0dbb1a" />
 
-Symbol,Quantity,Purchase_Price
-TD,25,54.05
-RIVN,74,10.30
-DIS,31,91.08
+
 
 Run the Python script to generate the report:
 
