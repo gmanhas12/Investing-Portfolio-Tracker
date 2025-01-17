@@ -21,7 +21,7 @@ HTML & CSS: Building and styling the dynamic portfolio report.
 
 
 
-How to Use
+How to Use:
 Clone this repository to your local machine.
 Ensure the required dependencies (yfinance, matplotlib) are installed.
 
